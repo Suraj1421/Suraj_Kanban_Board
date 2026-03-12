@@ -463,44 +463,9 @@ Backend is probably not running. Make sure`npm run dev` is executed in the backe
 
 ---
 
-## 🎓 Learning Outcomes
-
-After working with this project, you'll understand:
-- ✅ Full MEVN stack architecture
-- ✅ Vue 3 Composition API & state management with Pinia
-- ✅ REST API design & Express.js routing
-- ✅ MongoDB with Mongoose ODM
-- ✅ Drag-and-drop UI with SortableJS
-- ✅ Optimistic updates pattern
-- ✅ Frontend-Backend data synchronization
-
----
 
 ## 📄 License
 
 This project is open source and available under the MIT License.
 
----
 
-## 🤝 Contributing
-
-Found a bug or have a feature idea? 
-1. Fork the repository
-2. Create a branch (`git checkout -b feature/YourFeature`)
-3. Commit changes (`git commit -m 'Add YourFeature'`)
-4. Push to branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
----
-
-## 📞 Support
-
-Need help? 
-- Check the **Troubleshooting** section above
-- Review the **API Reference** for endpoint details
-- Examine component comments in the source code
-- Open an issue on GitHub
-
----
-
-**Happy Task Managing! 🚀**
