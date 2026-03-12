@@ -208,15 +208,15 @@ This diagram shows how your frontend and backend work together:
 │                     Vue 3 Frontend                          │
 │                  (http://localhost:5173)                    │
 ├─────────────────────────────────────────────────────────────┤
-│                                                              │
+│                                                             │
 │  1. User Actions (click, drag, submit)                      │
-│  ↓                                                           │
+│  ↓                                                          │
 │  Components (KanbanBoard, TaskCard, etc.)                   │
-│  ↓                                                           │
+│  ↓                                                          │
 │  Pinia Store (taskStore.js) ← Central State Manager         │
-│  ↓                                                           │
-│  useApi.js (Axios HTTP Client)                             │
-│  ↓                                                           │
+│  ↓                                                          │
+│  useApi.js (Axios HTTP Client)                              │
+│  ↓                                                          │
 ```
 
 ```
@@ -227,13 +227,13 @@ This diagram shows how your frontend and backend work together:
 │                   Express.js Backend                        │
 │                  (http://localhost:5000)                    │
 ├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  routes/tasks.js (API Endpoints)                           │
-│  ↓                                                           │
-│  models/Task.js (Mongoose Schema)                          │
-│  ↓                                                           │
+│                                                             │
+│  routes/tasks.js (API Endpoints)                            │
+│  ↓                                                          │
+│  models/Task.js (Mongoose Schema)                           │
+│  ↓                                                          │
 │  MongoDB Database Connection                                │
-│                                                              │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
