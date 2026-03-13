@@ -21,6 +21,23 @@ A modern, responsive kanban board application that lets you manage tasks by drag
 
 ---
 
+## 🎥 Demo Video
+
+Watch a quick **2-minute walkthrough** of **KanFlow** in action.  
+This demo shows how tasks can be **created, dragged across columns, prioritized, and deleted in real time**.
+
+▶️ **Watch the Demo:**  
+[Click here to view the demo video](https://www.loom.com/share/6b51ccb4bb8744588d8ff1997d4feed3)
+
+### 📌 Demo Highlights
+- Creating a new task using the modal form  
+- Dragging tasks between **To Do → In Progress → Done** columns  
+- Updating task priority with visual indicators  
+- Real-time task count updates in the dashboard  
+- Deleting tasks instantly from the board
+  
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
